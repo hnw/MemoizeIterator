@@ -1,4 +1,4 @@
 MemoizeIterator
 ===============
 
-PHP memoizing iterator which inherits SPL CachingIterator
+Memoizing iterator for PHP which inherits SPL CachingIterator
